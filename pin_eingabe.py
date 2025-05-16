@@ -46,9 +46,9 @@ class PinEingabe(QtWidgets.QMainWindow):
             self.update_dots()
             
 #Test
-if __name__ == "__main__":
-     import sys
-     app = QtWidgets.QApplication(sys.argv)
-     window = PinEingabe()
-     window.show()
-     sys.exit(app.exec())        
+#if __name__ == "__main__":
+ #    import sys
+  #   app = QtWidgets.QApplication(sys.argv)
+   #  window = PinEingabe()
+    # window.show()
+     #sys.exit(app.exec())        
